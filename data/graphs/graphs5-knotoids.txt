@@ -1,0 +1,5 @@
+native notation
+a=V(b0) b=V(a0 c0 d0 d3) c=V(b1 d2 d1 e0) d=V(b2 c2 c1 b3) e=V(c3)
+a=V(b0) b=V(a0 c0 d0 e0) c=V(b1 e3 e2 e1) d=V(b2) e=V(b3 c3 c2 c1)
+a=V(b0) b=V(a0 c0 d0 e0) c=V(b1) d=V(b2 e3 e2 e1) e=V(b3 d3 d2 d1)
+a=V(b0) b=V(a0 c0 c3 d0) c=V(b1 d2 d1 b2) d=V(b3 c2 c1 e0) e=V(d3)

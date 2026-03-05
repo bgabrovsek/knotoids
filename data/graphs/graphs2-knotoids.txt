@@ -1,0 +1,2 @@
+native notation
+a=V(b0) b=V(a0)

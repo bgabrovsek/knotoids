@@ -1,0 +1,9 @@
+native notation
+a=V(b0) b=X(a0 c0 d3 d2) c=X(b1 e0 f3 d0) d=X(c3 f2 b3 b2) e=X(c1 g0 h3 f0) f=X(e3 h2 d1 c2) g=X(e1 i0 h1 h0) h=X(g3 g2 f1 e2) i=V(g1) ['name'='7_25']
+a=V(b0) b=X(a0 c0 c3 d0) c=X(b1 e0 d1 b2) d=X(b3 c2 f3 f2) e=X(c1 g0 g3 f0) f=X(e3 h0 d3 d2) g=X(e1 h2 h1 e2) h=X(f1 g2 g1 i0) i=V(h3) ['name'='7_28']
+a=V(b0) b=X(a0 c0 d3 e3) c=X(b1 e2 f3 d0) d=X(c3 f2 g3 b2) e=X(g2 f0 c1 b3) f=X(e1 g0 d1 c2) g=X(f1 h0 e0 d2) h=V(g1) ['name'='6_28']
+a=V(b0) b=X(a0 c0 c3 d0) c=X(b1 e0 e3 b2) d=X(b3 e2 f3 f2) e=X(c1 g0 d1 c2) f=X(h3 h2 d3 d2) g=X(e1 i0 h1 h0) h=X(g3 g2 f1 f0) i=V(g1) ['name'='7_225']
+a=V(b0) b=X(a0 c0 d3 d2) c=X(b1 e3 f3 d0) d=X(c3 e0 b3 b2) e=X(d1 g0 f0 c1) f=X(e2 h0 g1 c2) g=X(e1 f2 h3 h2) h=X(f1 i0 g3 g2) i=V(h1) ['name'='7_257']
+a=V(b0) b=X(a0 c0 c3 d0) c=X(b1 e0 d1 b2) d=X(b3 c2 f3 e1) e=X(c1 d3 f2 g0) f=X(h3 h2 e2 d2) g=X(e3 h1 i0 h0) h=X(g3 g1 f1 f0) i=V(g2) ['name'='7_625']
+a=V(b0) b=X(a0 c0 c3 d0) c=X(b1 e0 d1 b2) d=X(b3 c2 f3 e1) e=X(c1 d3 f2 g0) f=X(g3 h0 e2 d2) g=X(e3 h2 h1 f0) h=X(f1 g2 g1 i0) i=V(h3) ['name'='7_823']
+a=V(b0) b=X(a0 c0 c3 d0) c=X(b1 d3 e3 b2) d=X(b3 f0 e0 c1) e=X(d2 g0 g3 c2) f=X(d1 g2 h3 h2) g=X(e1 h1 f1 e2) h=X(i0 g1 f3 f2) i=V(h0) ['name'='7_1048']

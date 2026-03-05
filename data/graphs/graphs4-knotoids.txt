@@ -1,0 +1,2 @@
+native notation
+a=V(b0) b=V(a0 c0 c3 c2) c=V(b1 d0 b3 b2) d=V(c1)
